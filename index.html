@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css"
+      integrity="sha512-DxV+EoADOkOygM4IR9yXP8Sb2qwgidEmeqAEmDKIOfPRQZOWbXCzLC6vjbZyy0vPisbH2SyW27+ddLVCN+OMzQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+  </head>
+  <body>
+    <nav>
+      <h1>Click Speed <span>Tester</span></h1>
+    </nav>
+    <div class="opts">
+      <div class="btn">5 Sec</div>
+      <div class="btn">10 Sec</div>
+      <div class="btn">15 Sec</div>
+      <div class="btn">30 Sec</div>
+      <div class="btn">1 Min</div>
+    </div>
+    <div class="cps-bg">
+      <div class="timer-outer-body">
+        <div class="timer">
+          <span class="sec">05</span>
+          <div class="spacing"></div>
+          <span>.</span>
+          <div class="spacing"></div>
+          <span class="miliSec">00</span>
+        </div>
+        <span>Timer</span>
+      </div>
+      <div class="cps-area">
+        <p class="cps-text">Click Here to Start!</p>
+      </div>
+      <div class="click-count"><span class="count">0</span> <a>Clicks</a></div>
+    </div>
+
+    <div class="score-card">
+      <div class="your-score">Your Score:</div>
+      <div class="seperator"></div>
+      <div class="desc">
+        <div class="rank-name">Bronze</div>
+        <div class="rank-img">
+          <img src="./assets/Bronze.png" alt="" id="img" />
+        </div>
+        <div class="score">
+          <div class="line-1">You Click With the Speed Of</div>
+          <div class="line-2">10 CPS</div>
+          <div class="line-3">52 Clicks in 5 Seconds</div>
+        </div>
+        <div class="quote">
+          Every expert was once a beginner — keep clicking forward!
+        </div>
+      </div>
+      <div class="try-again">
+        <div class="sc-btn">Try Again!</div>
+      </div>
+    </div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
