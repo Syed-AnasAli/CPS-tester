@@ -153,8 +153,8 @@ cpsArea.addEventListener("click", () => {
   if (timerStarted) {
     startTimer();
     resetCounter();
-    rankImg.src = "./assets/Platinum.png";
-    rank.textContent = "Platinum";
+    rankImg.src = "./assets/Bronze.png";
+    rank.textContent = "Bronze";
     rankQuote.textContent = "Every expert was once a beginner — keep clicking ";
     text.textContent = "";
     scoreCard.style.display = "none";
