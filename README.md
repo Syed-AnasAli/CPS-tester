@@ -1,4 +1,4 @@
-# Click Speed Tester 🖱️⚡
+Click Speed Tester 🖱️⚡
 A browser-based CPS (Clicks Per Second) tester that measures how fast you can click within a chosen time limit.
 Features ✨
 
@@ -10,15 +10,9 @@ Features ✨
 🎖️ Six rank tiers: Bronze, Silver, Gold, Platinum, Diamond, and Legendary
 📱 Fully responsive design for mobile and desktop
 
-**Rank Tiers 🏅**
-🥉 BronzeBelow 6
-🥈 Silver6 – 8.9
-🥇 Gold9 – 11.9
-💠 Platinum12 – 14.9
-💎 Diamond15 – 19.9
-🌟 Legendary20+
-
-**Technologies Used 🛠️**
+Rank Tiers 🏅
+RankCPS Required🥉 BronzeBelow 6🥈 Silver6 – 8.9🥇 Gold9 – 11.9💎 Platinum12 – 14.9💠 Diamond15 – 19.9🌟 Legendary20+
+Technologies Used 🛠️
 
 HTML5
 CSS3 (custom properties, CSS Grid, Flexbox, media queries)
