@@ -2,6 +2,9 @@
 
 A browser-based CPS (Clicks Per Second) tester that measures how fast you can click within a chosen time limit.
 
+## Deployed Link: https://cpstester-015.netlify.app
+
+
 ## Features ✨
 
 - ⏱️ Five timer options: 5, 10, 15, 30 seconds, and 1 minute
